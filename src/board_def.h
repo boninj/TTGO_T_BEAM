@@ -1,8 +1,8 @@
 #ifndef BOARD_DEF_H
 #define BOARD_DEF_H
 
- #define T_BEAM_V07
-//#define T_BEAM_V10
+//#define T_BEAM_V07
+#define T_BEAM_V10
 
 //#define ENABLE_SSD1306
 #define ENABLE_GPS
